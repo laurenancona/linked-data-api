@@ -1,5 +1,7 @@
-#summary Linked Data API Specification
 #labels Featured
+*Note:* This repository and wiki have been exported to https://github.com/UKGovLD/linked-data-api
+
+#summary Linked Data API Specification
 
 This document defines a vocabulary and processing model for a configurable API layer intended to support the creation of simple RESTful APIs over RDF triple stores. 
 
